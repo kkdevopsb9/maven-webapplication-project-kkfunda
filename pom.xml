@@ -37,7 +37,7 @@
 			<version>20231013</version>
 		</dependency>
 		
-		<!-- test dependencies -->
+		<!-- test dependencies KK DEVOPS -->
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
